@@ -1,0 +1,13 @@
+/* Styles for making the sidebar fixed */
+.fixed-sidebar {
+  position: fixed;
+  height: 100vh;
+  overflow-y: auto; /* Enable vertical scrolling if needed */
+}
+
+/* Add some padding to the content area */
+.col {
+  padding: 20px;
+}
+
+/* Optional: Adjust the styles based on your design */
